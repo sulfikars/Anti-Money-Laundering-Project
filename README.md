@@ -56,24 +56,6 @@ This repository showcases a comprehensive AML and transaction risk management pl
 
 ---
 
-## **How to Use**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/aml-risk-management-platform.git
-   cd aml-risk-management-platform
-   ```
-2. **Set Up Environment**:
-   - Install Python dependencies:
-     ```bash
-     pip install pandas matplotlib
-     ```
-   - Set up the database schema using provided SQL scripts.
-3. **Run Modules**:
-   - Execute the Python scripts for data cleaning, feature engineering, and fraud detection.
-   - Use Tableau to import and visualize cleaned datasets, applying the preconfigured dashboard template.
-
----
-
 ## **Contributing**
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request with enhancements or fixes.
 
